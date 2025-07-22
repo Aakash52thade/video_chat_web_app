@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "video_calling_app": "file:.."
+  }
+}
