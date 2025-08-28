@@ -22,7 +22,8 @@ export const protectRoute = async (req, res, next) => {
       return res.status(401).json({ message: "Unauthorized - User not found" });
     }
 
-    req.user = user;
+    req.user = user; // using this no need to more re-verify the user and fetch the user again
+     // now directly access the user data
 
     next();
   } catch (error) {
