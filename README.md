@@ -57,19 +57,21 @@ The application includes several key pages:
 - **Toast Notifications** for user feedback 
 - **Responsive Layout** with conditional sidebar
 
-## Screenshots
+## Screenshots (Preview)
 
-### Home Page
-![Home Page](./frontend/my-project/assets/Home.png)
+<table>
+  <tr>
+    <td><img src="./frontend/my-project/src/assets/Home.png" alt="Home Page" width="420" /></td>
+    <td><img src="./frontend/my-project/src/assets/Friend.png" alt="Friends Page" width="420" /></td>
+  </tr>
+  <tr>
+    <td><img src="./frontend/my-project/src/assets/chat.png" alt="Chat Page" width="420" /></td>
+    <td><img src="./frontend/my-project/src/assets/notification.png" alt="Notifications" width="420" /></td>
+  </tr>
+</table>
 
-### Friends Page
-![Friends Page](./frontend/my-project/assets/Friend.png)
-
-### Chat Page
-![Chat Page](./frontend/my-project/assets/chat.png)
-
-### Notifications
-![Notifications](./frontend/my-project/assets/notification.png)
+> **Important:** The images must exist in your repository at  
+> `frontend/my-project/src/assets/` with the exact filenames above (case-sensitive).
 
 ## Notes
 
