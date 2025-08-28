@@ -1,6 +1,3 @@
-
-
-
 # Video Chat Web App - Project Overview
 
 This is a comprehensive **video chat web application** with social networking features, designed for language learning and communication. The project follows a full-stack architecture with separate frontend and backend components.
@@ -33,7 +30,7 @@ This is a comprehensive **video chat web application** with social networking fe
 - **Protected routes** with authentication middleware
 
 ### User Management
-- **User Profile System** with language learning focus, including native language, learning language, bio, and location [16](#0-15) 
+- **User Profile System** with language learning focus, including native language, learning language, bio, and location
 - **Friend System** with friend requests and connections
 - **User Recommendations** for discovering new connections 
 
@@ -59,6 +56,20 @@ The application includes several key pages:
 - **Theme Support** with theme store management 
 - **Toast Notifications** for user feedback 
 - **Responsive Layout** with conditional sidebar
+
+## Screenshots
+
+### Home Page
+![Home Page](./frontend/my-project/assets/Home.png)
+
+### Friends Page
+![Friends Page](./frontend/my-project/assets/Friend.png)
+
+### Chat Page
+![Chat Page](./frontend/my-project/assets/chat.png)
+
+### Notifications
+![Notifications](./frontend/my-project/assets/notification.png)
 
 ## Notes
 
